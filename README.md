@@ -13,4 +13,17 @@ Cluedo et Mathématiques Bayésiennes
   - Vers une statégie mixte
 - Vers une simulation
   - Choix mixte / honnête / bluff
-  - Quantification / Choix d'un objectif (maximiser le nombre de victoires ? / Minimiser le nombre d'hypothèses ?)
+  - Définition d'un objectif **précis**
+    - Maximiser le nombre de victoires ?
+    - Minimiser le nombre d'hypothèses ? 
+
+## Chronologie
+```mermaid
+gantt
+dateFormat  YYYY-MM-DD
+title Diagramme de Gantt
+
+section Au préalable
+Création du GitHub        :done, git1, 2022-09-24, 1d
+Formation des premiers éléments: active, add1, 2022-09-25, 1d
+```
