@@ -11,3 +11,6 @@ Cluedo et Mathématiques Bayésiennes
 - Le choix d'une stratégie : vers la théorie des jeux
   - Formalisme d'une stratégie
   - Vers une statégie mixte
+- Vers une simulation
+  - Choix mixte / honnête / bluff
+  - Quantification / Choix d'un objectif (maximiser le nombre de victoires ? / Minimiser le nombre d'hypothèses ?)
