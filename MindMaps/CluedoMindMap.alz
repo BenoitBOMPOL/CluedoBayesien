@@ -9,110 +9,126 @@
  <text-size>14000</text-size>
  <corner-radius>5000</corner-radius>
  <graph>
-  <node index="38" h="75000" x="-845455" y="376048" w="215000">
-   <text>Formalisme Adapté</text>
-   <color r="17" b="193" g="173"/>
-   <text-color r="0" b="0" g="0"/>
-  </node>
-  <node index="37" h="75000" x="-480306" y="374226" w="232000">
-   <text>Vers un modèle jouet</text>
+  <node index="67" h="75000" x="2323845" y="1748293" w="200000">
+   <text>Un jeu Bayésien ?</text>
    <color r="255" b="255" g="255"/>
    <text-color r="0" b="0" g="0"/>
   </node>
-  <node index="33" h="75000" x="-64441" y="368444" w="316000">
-   <text>Et la simulation dans tout ça ?</text>
-   <color r="247" b="118" g="228"/>
-   <text-color r="0" b="0" g="0"/>
-  </node>
-  <node index="19" h="75000" x="-830244" y="63729" w="200000">
-   <text>Stratégie Mixte</text>
+  <node index="66" h="75000" x="1922610" y="611137" w="200000">
+   <text>*posteriori*</text>
    <color r="255" b="255" g="255"/>
    <text-color r="0" b="0" g="0"/>
   </node>
-  <node index="32" h="75000" x="-1157648" y="251933" w="200000">
-   <text>Théorie des jeux</text>
-   <color r="17" b="193" g="173"/>
-   <text-color r="0" b="0" g="0"/>
-  </node>
-  <node index="2" h="75000" x="-573185" y="202802" w="200000">
-   <text>Statégie Honnête</text>
-   <color r="255" b="255" g="255"/>
-   <text-color r="0" b="0" g="0"/>
-  </node>
-  <node index="13" h="75000" x="-717035" y="-139826" w="200000">
-   <text>Bluff</text>
-   <color r="255" b="255" g="255"/>
-   <text-color r="0" b="0" g="0"/>
-  </node>
-  <node index="26" h="75000" x="254817" y="-452889" w="200000">
-   <text>"Posteriori"</text>
-   <color r="255" b="255" g="255"/>
-   <text-color r="0" b="0" g="0"/>
-  </node>
-  <node index="20" h="75000" x="-27496" y="-100634" w="200000">
-   <text>Information</text>
-   <color r="255" b="255" g="255"/>
-   <text-color r="0" b="0" g="0"/>
-  </node>
-  <node index="21" h="75000" x="623506" y="75813" w="200000">
-   <text>Combinaisons</text>
-   <color r="255" b="255" g="255"/>
-   <text-color r="0" b="0" g="0"/>
-  </node>
-  <node index="22" h="75000" x="-271133" y="-323799" w="216000">
-   <text>Information Cachée</text>
-   <color r="255" b="255" g="255"/>
-   <text-color r="0" b="0" g="0"/>
-  </node>
-  <node index="25" h="75000" x="629233" y="-333801" w="200000">
+  <node index="65" h="75000" x="1646600" y="613936" w="200000">
    <text>Probabilités</text>
    <color r="255" b="255" g="255"/>
    <text-color r="0" b="0" g="0"/>
   </node>
-  <node index="0" h="75000" x="-61640" y="73649" w="200000">
-   <text>Cluedo</text>
-   <color r="0" b="136" g="179"/>
+  <node index="63" h="75000" x="1371937" y="795904" w="200000">
+   <text>Combinaisons</text>
+   <color r="255" b="255" g="255"/>
    <text-color r="0" b="0" g="0"/>
   </node>
-  <node index="29" h="75000" x="257876" y="-215613" w="200000">
+  <node index="62" h="75000" x="929872" y="1286120" w="300000">
+   <text>Accumulation d'informations</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="61" h="75000" x="1197961" y="985918" w="213000">
+   <text>Information cachée</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="60" h="75000" x="1198375" y="1096096" w="209000">
+   <text>Information visible</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="53" h="75000" x="319468" y="1537070" w="202000">
+   <text>Stratégie Honnête</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="52" h="75000" x="508140" y="1771226" w="200000">
+   <text>Théorie des jeux</text>
+   <color r="161" b="90" g="229"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="46" h="75000" x="2326477" y="289366" w="200000">
+   <text>Bayes ?!</text>
+   <color r="109" b="193" g="247"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="40" h="75000" x="934633" y="797837" w="200000">
+   <text>Cluedo</text>
+   <color r="0" b="136" g="179"/>
+   <text-color r="17" b="17" g="17"/>
+  </node>
+  <node index="39" h="75000" x="1278239" y="631542" w="236000">
+   <text>Un Cluedo Bayésien ?</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="59" h="75000" x="1921132" y="1052433" w="200000">
    <text>Observation</text>
    <color r="255" b="255" g="255"/>
    <text-color r="0" b="0" g="0"/>
   </node>
-  <node index="1" h="75000" x="-425616" y="-30054" w="200000">
-   <text>Statégie</text>
+  <node index="54" h="75000" x="693503" y="1528391" w="200000">
+   <text>Bluff</text>
    <color r="255" b="255" g="255"/>
    <text-color r="0" b="0" g="0"/>
   </node>
-  <node index="30" h="75000" x="-267419" y="-516412" w="268000">
-   <text>Probabilités Bayésiennes</text>
-   <color r="17" b="193" g="173"/>
+  <node index="49" h="75000" x="933424" y="335096" w="232000">
+   <text>Vers un modèle jouet</text>
+   <color r="255" b="255" g="255"/>
    <text-color r="0" b="0" g="0"/>
   </node>
-  <edge index1="38" index0="37" arrow-mode="0"/>
-  <edge index1="37" index0="33" arrow-mode="0"/>
-  <edge index1="32" index0="19" arrow-mode="0"/>
-  <edge index1="19" index0="2" arrow-mode="0"/>
-  <edge index1="19" index0="13" arrow-mode="0"/>
-  <edge index1="30" index0="26" arrow-mode="0"/>
-  <edge index1="29" index0="20" arrow-mode="0"/>
-  <edge index1="22" index0="20" arrow-mode="0"/>
-  <edge index1="25" index0="21" arrow-mode="0"/>
-  <edge index1="26" index0="22" arrow-mode="0">
-   <text>Changement de stratégie</text>
-  </edge>
-  <edge index1="1" index0="22" arrow-mode="0">
-   <text>Changement de stratégie</text>
-  </edge>
-  <edge index1="26" index0="25" arrow-mode="0"/>
-  <edge index1="37" index0="0" arrow-mode="0"/>
-  <edge index1="33" index0="0" arrow-mode="0"/>
-  <edge index1="1" index0="0" arrow-mode="0"/>
-  <edge index1="21" index0="0" arrow-mode="0"/>
-  <edge index1="20" index0="0" arrow-mode="0"/>
-  <edge index1="26" index0="29" arrow-mode="0"/>
-  <edge index1="13" index0="1" arrow-mode="0"/>
-  <edge index1="2" index0="1" arrow-mode="0"/>
+  <node index="48" h="75000" x="1281827" y="334267" w="325000">
+   <text>Et l'informatique dans tout ça ?</text>
+   <color r="237" b="0" g="212"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="55" h="75000" x="509880" y="1650535" w="200000">
+   <text>Stratégie Mixte</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="58" h="75000" x="934043" y="1060870" w="200000">
+   <text>Information</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="51" h="75000" x="507236" y="1405155" w="200000">
+   <text>Stratégie</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <edge index1="46" index0="66" arrow-mode="0"/>
+  <edge index1="46" index0="65" arrow-mode="0"/>
+  <edge index1="65" index0="63" arrow-mode="0"/>
+  <edge index1="51" index0="62" arrow-mode="0"/>
+  <edge index1="55" index0="53" arrow-mode="0"/>
+  <edge index1="67" index0="52" arrow-mode="0"/>
+  <edge index1="67" index0="46" arrow-mode="0"/>
+  <edge index1="63" index0="40" arrow-mode="0"/>
+  <edge index1="58" index0="40" arrow-mode="0"/>
+  <edge index1="59" index0="40" arrow-mode="0"/>
+  <edge index1="49" index0="40" arrow-mode="0"/>
+  <edge index1="51" index0="40" arrow-mode="0"/>
+  <edge index1="46" index0="39" arrow-mode="0"/>
+  <edge index1="40" index0="39" arrow-mode="0"/>
+  <edge index1="48" index0="39" arrow-mode="0"/>
+  <edge index1="66" index0="59" arrow-mode="0"/>
+  <edge index1="62" index0="59" arrow-mode="0"/>
+  <edge index1="55" index0="54" arrow-mode="0"/>
+  <edge index1="49" index0="48" arrow-mode="0"/>
+  <edge index1="52" index0="55" arrow-mode="0"/>
+  <edge index1="60" index0="58" arrow-mode="0"/>
+  <edge index1="62" index0="58" arrow-mode="0"/>
+  <edge index1="61" index0="58" arrow-mode="0"/>
+  <edge index1="53" index0="51" arrow-mode="0"/>
+  <edge index1="54" index0="51" arrow-mode="0"/>
  </graph>
  <layout-optimizer min-edge-length="100000" aspect-ratio="1000"/>
 </heimer-mind-map>
