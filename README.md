@@ -30,4 +30,3 @@ Formation des premiers éléments: active, add1, 2022-09-25, 1d
 
 ## MindMap
 Idées actuellement à l'étude : 
-![Current MindMap](https://github.com/BenoitBOMPOL/CluedoBayesien/blob/main/MindMaps/MindMap_000.png?raw=true)
