@@ -25,7 +25,7 @@ title Diagramme de Gantt
 
 section Au préalable
 Création du GitHub        :done, git1, 2022-09-24, 1d
-Formation des premiers éléments: active, add1, 2022-09-25, 1d
+Formation des premiers éléments: active, add1, 2022-09-25, 2022-09-29
 ```
 
 ## MindMap
