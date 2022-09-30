@@ -5,7 +5,7 @@ Cluedo et Mathématiques Bayésiennes
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
-title Diagramme de Gantt
+title Diagramme de Gantt du dit-projet
 
 section Au préalable
 Création du GitHub        :done, git1, 2022-09-24, 1d
