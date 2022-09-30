@@ -15,12 +15,11 @@ Formation des premiers éléments: active, add1, 2022-09-25, 2022-09-30
 ![CurrentMindMap](https://github.com/BenoitBOMPOL/CluedoBayesien/blob/main/MindMaps/MindMap_001.png)
 
 ## Objectifs à court terme
-- Finir de délimiter le problème
 - Commencer une veille documentaire
 - Lister les publications à ce sujet
   - Research Rabbit
   - Zotero
-- Mettre à jour les objectifs à long terme
+- Mettre à jour les objectifs à long terme, et fixer **une fois pour toutes** les limites du projet
 
 ## Objectifs à long terme
 - Mathématiques
