@@ -17,7 +17,7 @@ Formation des premiers éléments: active, add1, 2022-09-25, 2022-09-30
 ## Objectifs à court terme
 - Commencer une veille documentaire
 - Lister les publications à ce sujet
-  - Research Rabbit
+  - ![Research Rabbit](https://www.researchrabbitapp.com/collection/public/JLNM89PP6N)
   - Zotero
 - Mettre à jour les objectifs à long terme, et fixer **une fois pour toutes** les limites du projet
 
